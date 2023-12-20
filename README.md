@@ -47,7 +47,8 @@ La documentación incluye detalles sobre los endpoints, los métodos HTTP permit
 
 ## Documentación
 - Manual de Usuario: https://docs.google.com/document/d/1zq4jRy52VsyA7mzfW7IJ6yingJkKFhE0mYUdRF9n5OI/edit?usp=sharing
-- Video explicativo: https://www.youtube.com/watch?v=sGkYvSEo-RY)
+  
+- Video explicativo: https://www.youtube.com/watch?v=sGkYvSEo-RY
 
 ## Soporte
 
