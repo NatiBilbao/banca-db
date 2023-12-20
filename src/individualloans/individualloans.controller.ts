@@ -3,7 +3,9 @@ import { CreateIndividualLoanDto } from './dto/create-individualloans.dto';
 import { IndividualloansService } from './individualloans.service';
 import { IndividualLoan } from './individualloans.entity';
 import { UpdateIndividualLoanDto } from './dto/update-individualloans.dto';
+import { ApiTags } from '@nestjs/swagger';
 
+@ApiTags('Individual Loans')
 @Controller('individualloans')
 export class IndividualloansController {
     constructor(private individualloanService: IndividualloansService){}

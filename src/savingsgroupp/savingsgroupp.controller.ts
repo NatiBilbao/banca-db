@@ -3,7 +3,9 @@ import { CreateSavingGroupDto } from './dto/create-savingsgroup.dto';
 import { SavingsgroupService } from './savingsgroupp.service';
 import { Group } from './savingsgroup.entity';
 import { UpdateSavingGroupDto } from './dto/update-savingsgroup.dto';
+import { ApiTags } from '@nestjs/swagger';
 
+@ApiTags('Savings Group')
 @Controller('group')
 export class SavingGroupController {
     constructor(private groupService: SavingsgroupService){}

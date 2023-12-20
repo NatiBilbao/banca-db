@@ -3,7 +3,9 @@ import { CreateGroupLoansDto } from './dto/create-grouploans.dto';
 import { GrouploansService } from './grouploans.service';
 import { GroupLoan } from './grouploans.entity';
 import {UpdateGroupLoansDto } from './dto/update-grouploans.dto';
+import { ApiTags } from '@nestjs/swagger';
 
+@ApiTags('Group Loan')
 @Controller('grouploan')
 export class GrouploansController {
     constructor(private grouploanService: GrouploansService){}

@@ -3,7 +3,9 @@ import {  CreateIndividualPaymentPlanDto } from './dto/create-individualpaymentp
 import { IndividualpaymentplansService } from './individualpaymentplans.service';
 import { IndividualPaymentPlans } from './individualpaymentplans.entity';
 import { UpdateIndividualPaymentPlanDto } from './dto/update-individualpaymentplans.dto';
+import { ApiTags } from '@nestjs/swagger';
 
+@ApiTags('Individual Payment Plans')
 @Controller('individualpaymentplans')
 export class IndividualpaymentplansController {
 

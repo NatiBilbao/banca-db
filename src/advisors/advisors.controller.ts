@@ -3,7 +3,9 @@ import { CreateAdvisorsDto } from './dto/create-advisors.dto';
 import { AdvisorsService } from './advisors.service';
 import { Advisor } from './advisors.entity';
 import { UpdateAdvisorsDto } from './dto/update-advisors.dto';
+import { ApiTags } from '@nestjs/swagger';
 
+@ApiTags('Advisors')
 @Controller('advisors')
 export class AdvisorsController {
 
