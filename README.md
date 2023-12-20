@@ -42,18 +42,18 @@ La base de datos está diseñada con las siguientes entidades principales:
 La documentación incluye detalles sobre los endpoints, los métodos HTTP permitidos, los parámetros de entrada y salida, así como ejemplos de solicitudes y respuestas para cada una de las 6 entidades.
 
 ## Tecnologías Utilizadas
-Swagger: Utilizado para documentar la API de la base de datos.
-Nest: Para construir el programa.
+- Swagger: Utilizado para documentar la API de la base de datos.
+- Nest: Para construir el programa.
 
 ## Documentación
-Manual de Usuario - (https://docs.google.com/document/d/1zq4jRy52VsyA7mzfW7IJ6yingJkKFhE0mYUdRF9n5OI/edit?usp=sharing)
-Video explicativo: (https://www.youtube.com/watch?v=sGkYvSEo-RY)
+- Manual de Usuario: https://docs.google.com/document/d/1zq4jRy52VsyA7mzfW7IJ6yingJkKFhE0mYUdRF9n5OI/edit?usp=sharing
+- Video explicativo: https://www.youtube.com/watch?v=sGkYvSEo-RY)
 
-## Support
+## Sorte
 
 Nest es un proyecto de código abierto con licencia MIT. Puede crecer gracias a los patrocinadores y al apoyo de los increíbles patrocinadores. Si quieres unirte a ellos, por favor [read more here](https://docs.nestjs.com/support).
 
-## License
+## Licencias
 
 Nest is [MIT licensed](LICENSE).
 
