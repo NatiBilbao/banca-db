@@ -49,7 +49,7 @@ La documentación incluye detalles sobre los endpoints, los métodos HTTP permit
 - Manual de Usuario: https://docs.google.com/document/d/1zq4jRy52VsyA7mzfW7IJ6yingJkKFhE0mYUdRF9n5OI/edit?usp=sharing
 - Video explicativo: https://www.youtube.com/watch?v=sGkYvSEo-RY)
 
-## Sorte
+## Soporte
 
 Nest es un proyecto de código abierto con licencia MIT. Puede crecer gracias a los patrocinadores y al apoyo de los increíbles patrocinadores. Si quieres unirte a ellos, por favor [read more here](https://docs.nestjs.com/support).
 
